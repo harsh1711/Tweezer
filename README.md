@@ -11,7 +11,7 @@ Tutorials:
 1. Authentication
 2. Cleaning Tweets
 3. Word Database
-4. Sentimenr Score 
+4. Sentiment Score 
 5. Word Cloud
 6. Graphs
 
