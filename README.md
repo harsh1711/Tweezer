@@ -14,4 +14,3 @@ Tutorials:
 4. Sentimenr Score 
 5. Word Cloud
 6. Graphs
-7. R shiny Front end folder
