@@ -9,9 +9,9 @@ SYSTEM REQUIREMENTS:
 Tutorials:
 
 1. Authentication
-2. Cleaning Tweets, 
+2. Cleaning Tweets
 3. Word Database
 4. Sentimenr Score 
 5. Word Cloud
 6. Graphs
-7. R shiny Front end
+7. R shiny Front end folder
