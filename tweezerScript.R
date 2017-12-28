@@ -22,7 +22,7 @@ library(plotrix);
 library(rlist);
 
 #Give hashtag on which you want to perform sentimental analysis 
-#Replace #hashtah with actual hashtag for ex. #india
+#Replace #hashtah with an actual hashtag ex. #india
 # n = number of tweets you want to fetch
 
 #downloading tweets
@@ -44,7 +44,7 @@ result$text <- sapply(result$text,function(row) iconv(row, "latin1", "ASCII", su
 result$text = gsub("(f|ht)tp(s?)://(.*)[.][a-z]+", "", result$text) #remove URL
 sample <- result$text
 
-# if you want to save the tweets csv file in your local machine 
+# if you want to save the tweets as CSV file in your local machine 
 # replace with the actual path and give file .csv extension 
 write.csv(sample,"Replace with actual path")
 write.csv(sample,"C:\\Harsh\\tweets_text.csv")
@@ -109,7 +109,7 @@ neg.words = c(neg.words, 'Fight', 'fighting', 'wtf', 'arrest', 'no', 'not')
 library(plyr)
 library(stringr)
 
-#Function for the sentiment score
+#Function for the generating sentiment score
 
 score.sentiment = function(sentences, pos.words, neg.words, .progress='none')
 {
