@@ -1,5 +1,5 @@
-# Tweezer
-Tweezer = TWEEts + analyZER (Twitter Sentimental Analysis)
+# Tweezer (Twitter Sentimental Analysis)
+Tweezer = TWEEts + analyZER 
 
 SYSTEM REQUIREMENTS:
 
