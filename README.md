@@ -1,22 +1,60 @@
 # Tweezer (Twitter Sentimental Analysis)
-Tweezer = TWEEts + analyZER 
+Tweezer = TWEEts + analyZER. 
+This project is created for Educational perpuse for those who fall in love with Data Science.
 
-SYSTEM REQUIREMENTS:
+## Getting Started
 
-1. Installation of R
-2. Twitter Authentication to access API
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Tutorials:
+### Prerequisites
 
-1. Authentication
-2. Cleaning Tweets
-3. Word Database
-4. Sentiment Score 
-5. Word Cloud
-6. Graphs
+```
+1. R
+2. R Studio
+3. Twitter Authentication to access API
+```
 
-Steps to use this project:
+### Installing
 
-1. Get all the required keys from twitter.com
-2. Run authentication.R file
-3. Run tweezerScript.R and follow the instructions 
+Download R
+
+```
+https://cran.r-project.org/
+```
+
+Download R Studio 
+
+```
+https://www.rstudio.com/
+```
+Twitter Authentication to access API
+
+```
+https://developer.twitter.com/
+```
+
+## Running the tweezer
+
+```
+Get all the required keys from https://developer.twitter.com/
+```
+
+```
+Run authentication.R file
+```
+
+```
+Run tweezerScript.R and follow the instructions given in script
+```
+
+## Built With
+* [R Studio](https://www.rstudio.com/)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/harsh1711/Tweezer/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+## Authors
+
+* **Harsh Shah** - *Initial work* - [Tweezer](https://github.com/harsh1711/Tweezer)
