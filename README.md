@@ -40,7 +40,7 @@ Get all the required keys from https://developer.twitter.com/
 ```
 
 ```
-Run authentication.R file
+Run authentication.R file and follow the instructions given in script
 ```
 
 ```
