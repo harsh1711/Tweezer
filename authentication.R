@@ -10,7 +10,7 @@ library(ROAuth)
 library(twitteR)
 
 # access twitter API
-#Replacer your consumer key,consumer_secret,access_token and access_secret
+#Replace your consumer key,consumer_secret,access_token and access_secret
 
 consumer_key <- 'gl3I2S5RuBoZxdy4da0EY'
 consumer_secret <- 'vb645D35mBc4HzGF5onJrFCW1ddw3dhECVzoBhegrzY2D'
