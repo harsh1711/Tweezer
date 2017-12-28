@@ -1,6 +1,7 @@
 # Tweezer (Twitter Sentimental Analysis)
 Tweezer = TWEEts + analyZER. 
-This project is created for Educational perpuse for those who fall in love with Data Science.
+
+This project is created for an Educational purpose for those who fall in love with Data Science and perform a sentimental analysis using twitter.
 
 ## Getting Started
 
