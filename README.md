@@ -14,3 +14,9 @@ Tutorials:
 4. Sentimenr Score 
 5. Word Cloud
 6. Graphs
+
+Steps to use this project:
+
+1. Get all the required keys from twitter.com
+2. Run authentication.R file
+3. Run tweezerScript.R and follow the instructions 
